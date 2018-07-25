@@ -1,4 +1,4 @@
-Ansible Role: nuage_remove_entity
+Ansible Role: nuage_create_entity
 =========
 
 This role allows you to create any entity on Nuage server and optionally assign it
